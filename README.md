@@ -17,7 +17,7 @@ This project uses some 3D-printed gears to stabilize the lazy susan.
 The designs use M3 screws and bolts, such as from here:
 https://www.amazon.com/gp/product/B0BV9CF62L/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
-It also uses 7mm wide compression springs, such as from here:
+It also uses 4mm wide compression springs, such as from here:
 https://www.amazon.com/gp/product/B0BVTDP29W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 #### Basic Gear Example
